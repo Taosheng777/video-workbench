@@ -1,0 +1,20 @@
+{
+  "name": "video-workbench",
+  "interface": {
+    "displayName": "涛生 · 视频工作台"
+  },
+  "plugins": [
+    {
+      "name": "video-workbench",
+      "source": {
+        "source": "local",
+        "path": "./plugins/video-workbench"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

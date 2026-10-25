@@ -1,0 +1,15 @@
+{
+  "name": "video-workbench",
+  "owner": {
+    "name": "涛生",
+    "url": "https://github.com/Taosheng777"
+  },
+  "description": "视频工作台与两套创作流程，固定于 2026-10-25。",
+  "plugins": [
+    {
+      "name": "video-workbench",
+      "source": "./plugins/video-workbench",
+      "description": "固定收藏的风格样片、医学科普与通用短片流程。"
+    }
+  ]
+}

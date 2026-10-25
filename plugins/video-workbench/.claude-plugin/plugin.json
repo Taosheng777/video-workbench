@@ -1,0 +1,13 @@
+{
+  "name": "video-workbench",
+  "version": "1.0.0",
+  "description": "固定收藏的风格样片、医学科普与通用短片流程。",
+  "author": {
+    "name": "涛生",
+    "url": "https://github.com/Taosheng777"
+  },
+  "homepage": "https://taosheng777.github.io/ai/video-workbench/",
+  "repository": "https://github.com/Taosheng777/video-workbench",
+  "license": "MIT",
+  "keywords": []
+}
