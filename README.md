@@ -2,7 +2,7 @@
 
 **先看见风格，再让想法动起来。**
 
-[打开在线工作台](https://taosheng777.github.io/ai/video-workbench/) · [涛生 Skills 合集](https://github.com/Taosheng777/taosheng-skills) · [固定发行 v1.0.0](https://github.com/Taosheng777/video-workbench/releases/tag/v1.0.0)
+[打开在线工作台](https://taosheng777.github.io/ai/video-workbench/) · [涛生 Skills 合集](https://github.com/Taosheng777/taosheng-skills) · [固定发行 v1.0.1](https://github.com/Taosheng777/video-workbench/releases/tag/v1.0.1)
 
 这是我做视频时使用的一张工作台：先看示例，选择画风、动效与叙事方法，再把整理好的需求交给 AI。它是一份 **2026-10-25 固定收藏**，不自动安装、更新或追踪上游。
 
@@ -23,7 +23,7 @@
 
 ## 怎么用
 
-最方便的是直接打开网页：点击卡片标题或封面进入分类，搜索、收藏参考，再复制一条或一组制作需求。
+最方便的是直接打开网页：默认先看我的6段10秒作品预览。切换“全部”后，个人视频在前，随后是其他视频、图片，文字介绍与外链靠后；可以搜索当前分类、收藏参考，再复制一条或一组制作需求。
 
 要让 AI 帮你选型与按流程制作，可以安装本仓库。三个自有 Skill 在 `plugins/video-workbench/skills/`；第三方项目保留固定来源与许可，**没有随包安装**。
 
@@ -42,11 +42,11 @@ codex plugin marketplace add Taosheng777/video-workbench
 
 然后在插件目录选择“涛生 · 视频工作台”。如果已安装涛生合集里的 `taosheng-video`，无需重复安装这个独立包，两处三个 Skill 内容相同。
 
-不熟悉命令时，直接把 [固定版本 Skill 目录](https://github.com/Taosheng777/video-workbench/tree/v1.0.0/plugins/video-workbench/skills) 发给 AI，请它安装所需技能。安装行为仍由你决定，浏览看板不触发安装。
+不熟悉命令时，直接把 [固定版本 Skill 目录](https://github.com/Taosheng777/video-workbench/tree/v1.0.1/plugins/video-workbench/skills) 发给 AI，请它安装所需技能。安装行为仍由你决定，浏览看板不触发安装。
 
 ## 离线使用
 
-下载 v1.0.0 Release ZIP，解压后打开 `plugins/video-workbench/skills/video-workbench/assets/board/index.html`。不需要 Node.js，也不需要账户。包内 64 个短视频预览离线可看，原作者外部演示需联网。
+下载 v1.0.1 Release ZIP，解压后打开 `plugins/video-workbench/skills/video-workbench/assets/board/index.html`。不需要 Node.js，也不需要账户。包内 64 个短视频预览离线可看，原作者外部演示需联网。
 
 浏览器工具仅支持 HTTP 时，可以运行：
 
